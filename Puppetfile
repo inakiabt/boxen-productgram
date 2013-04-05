@@ -27,9 +27,24 @@ github "inifile",  "0.9.0", :repo => "cprice-puppet/puppetlabs-inifile"
 github "nginx",    "1.1.0"
 github "nodejs",   "1.0.0"
 github "nvm",      "1.0.0"
-github "ruby",     "3.1.0"
+github "ruby",     "3.3.0"
 github "stdlib",   "3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
+github "titanium",   "1.1.0", :repo => "inakiabt/boxen-titanium"
+
 github "sudo",     "1.0.0"
+github "sysctl",              "1.0.0"
+github "iterm2",              "1.0.2"
+#github "vagrant",              "2.0.5"
+#github "vmware_fusion",		"1.0.2"
+#github "autojump",		"1.0.0"
+#github "cyberduck",		"1.0.0"
+#github "magican",		"1.0.1"
+#github "python",		"1.1.1"
+#github "sublime_text_2",	"1.1.0"
+#github "transmission",		"1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "postgresql","1.0.0"
+github "java",     "1.0.5"

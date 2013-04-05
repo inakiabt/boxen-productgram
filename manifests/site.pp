@@ -55,6 +55,7 @@ node default {
   include hub
   include nginx
   include nvm
+  include iterm2
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
