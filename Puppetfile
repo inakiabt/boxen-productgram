@@ -58,3 +58,4 @@ github "xquartz",    "1.1.0"
 
 github "postgresql","1.0.0"
 github "java",     "1.0.5"
+github "titanium",   "1.1.0", :repo => "inakiabt/boxen-titanium"
