@@ -1,7 +1,4 @@
-class people::inakiabt {
-    $my_dotfiles ="/Users/${::luser}/src/dotfiles"
-    puts $my_dotfiles
-
+class projects::inakiabt {
     include chrome
     include iterm2::stable
     include skype
