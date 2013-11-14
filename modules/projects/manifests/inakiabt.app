@@ -1,6 +1,6 @@
 class people::inakiabt {
     $my_dotfiles ="/Users/${::luser}/src/dotfiles"
-    echo $my_dotfiles
+    puts $my_dotfiles
 
     include chrome
     include iterm2::stable
