@@ -39,7 +39,6 @@ class projects::inakiabt {
 
     homebrew::tap { 'homebrew/dupes':
         before => [
-            Package['grep'],
             Package['make'],
         ],
     }
