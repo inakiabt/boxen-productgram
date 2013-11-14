@@ -53,7 +53,6 @@ class projects::inakiabt {
 
     package {
     [
-        'grep',
         'libevent',
         'make',
         'par',
