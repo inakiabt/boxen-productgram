@@ -1,5 +1,5 @@
 class people::inakiabt {
-    $my_dotfiles ="/Users/${::luser}/src/dotfiles"
+    $my_dotfiles ="/Users/${::boxen_user}/src/dotfiles"
     echo $my_dotfiles
 
     include chrome
