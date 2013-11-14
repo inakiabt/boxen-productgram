@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Our Boxen
 
 This is a template Boxen project designed for your organization to fork and
@@ -277,4 +276,3 @@ boxen-productgram
 =================
 
 ProductGram Boxen's repository
->>>>>>> 6d013ebb38e1c6e9909d0b9d320da1e333dc5385

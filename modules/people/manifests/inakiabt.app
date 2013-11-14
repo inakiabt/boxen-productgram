@@ -24,6 +24,7 @@ class people::inakiabt {
     include magican
     include vagrant
 
+
     # dotfiles
     $my_dotfiles ="/Users/${::luser}/src/dotfiles"
     repository { $my_dotfiles:

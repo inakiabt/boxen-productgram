@@ -78,3 +78,5 @@ github "btsync",     "1.0.0"
 github "googledrive",     "1.0.2"
 github "sequel_pro",     "1.0.1"
 github "magican",        "1.0.2"
+
+github "titanium",   "1.1.0", :repo => "inakiabt/boxen-titanium"
