@@ -44,12 +44,12 @@ class projects::inakiabt {
         ],
     }
 
-    homebrew::tap { 'josegonzalez/php':
-        before => [
-            Package['php-build'],
-            Package['phpenv'],
-        ],
-    }
+#    homebrew::tap { 'josegonzalez/php':
+#        before => [
+#            Package['php-build'],
+#            Package['phpenv'],
+#        ],
+#    }
 
     package {
     [
