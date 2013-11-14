@@ -1,4 +1,4 @@
-class projects::inakiabt {
+class people::inakiabt {
     include chrome
     include iterm2::stable
     include skype
