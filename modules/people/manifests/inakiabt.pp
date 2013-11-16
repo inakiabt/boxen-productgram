@@ -37,8 +37,6 @@ class people::inakiabt {
     # homebrew dupes
     include homebrew
 
-    homebrew::tap { 'homebrew/dupes' }
-
 #    homebrew::tap { 'josegonzalez/php':
 #        before => [
 #            Package['php-build'],
