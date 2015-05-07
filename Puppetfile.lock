@@ -1,14 +1,4 @@
 GITHUBTARBALL
-  remote: boxen/puppet-alfred
-  specs:
-    alfred (1.1.6)
-
-GITHUBTARBALL
-  remote: boxen/puppet-better_touch_tools
-  specs:
-    better_touch_tools (1.0.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.10.2)
@@ -19,29 +9,9 @@ GITHUBTARBALL
     brewcask (0.0.6)
 
 GITHUBTARBALL
-  remote: boxen/puppet-btsync
-  specs:
-    btsync (1.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-chrome
-  specs:
-    chrome (1.1.2)
-
-GITHUBTARBALL
-  remote: boxen/puppet-cyberduck
-  specs:
-    cyberduck (1.0.1)
-
-GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (2.0.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-dropbox
-  specs:
-    dropbox (1.1.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-foreman
@@ -64,16 +34,6 @@ GITHUBTARBALL
     go (2.1.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-googledrive
-  specs:
-    googledrive (1.0.2)
-
-GITHUBTARBALL
-  remote: boxen/puppet-hipchat
-  specs:
-    hipchat (1.0.8)
-
-GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.11.2)
@@ -82,26 +42,6 @@ GITHUBTARBALL
   remote: boxen/puppet-hub
   specs:
     hub (1.4.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-iterm2
-  specs:
-    iterm2 (1.0.4)
-
-GITHUBTARBALL
-  remote: boxen/puppet-java
-  specs:
-    java (1.0.5)
-
-GITHUBTARBALL
-  remote: boxen/puppet-jumpcut
-  specs:
-    jumpcut (1.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-magican
-  specs:
-    magican (1.0.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-nginx
@@ -119,14 +59,14 @@ GITHUBTARBALL
     openssl (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-pkgconfig
+  remote: boxen/puppet-phantomjs
   specs:
     phantomjs (2.3.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-postgresql
+  remote: boxen/puppet-pkgconfig
   specs:
-    postgresql (1.0.0)
+    pkgconfig (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -139,69 +79,14 @@ GITHUBTARBALL
     ruby (8.1.7)
 
 GITHUBTARBALL
-  remote: boxen/puppet-sequel_pro
-  specs:
-    sequel_pro (1.0.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-sparrow
-  specs:
-    sparrow (1.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-steam
-  specs:
-    steam (1.0.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-sublime_text_2
-  specs:
-    sublime_text_2 (1.1.2)
-
-GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-transmission
-  specs:
-    transmission (1.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-utorrent
-  specs:
-    utorrent (1.1.1)
-
-GITHUBTARBALL
-  remote: boxen/puppet-vagrant
-  specs:
-    vagrant (3.0.0)
-
-GITHUBTARBALL
-  remote: boxen/puppet-virtualbox
-  specs:
-    virtualbox (1.0.9)
-
-GITHUBTARBALL
-  remote: boxen/puppet-vlc
-  specs:
-    vlc (1.0.5)
-
-GITHUBTARBALL
-  remote: boxen/puppet-vmware_fusion
-  specs:
-    vmware_fusion (1.0.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.2.1)
-
-GITHUBTARBALL
-  remote: inakiabt/boxen-titanium
-  specs:
-    titanium (1.1.0)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
